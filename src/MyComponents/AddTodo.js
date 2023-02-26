@@ -15,7 +15,6 @@ const AddTodo = ({addTodo}) => {
     setTitle("")
     setRem("")
   }
-// console.log(title,"title");
   return (
     <div className="container my-3">
         <h3>Add a Todo</h3>
